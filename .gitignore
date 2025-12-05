@@ -73,3 +73,23 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore Starter Content 
+Content/StarterContent/*
+Content/Characters/*
+Content/LevelPrototyping/*
+
+
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/4/DQ/RQDQUB53LTUTXDQ5WLW7ZP.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/6/G8/3549JDM7TN192FAYFXAAY6.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/6/KA/8AWKAG35YR476J0EU32WCP.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/7/0M/D4E6P5O6OOX5SCR1V0HXBO.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/8/YA/YDE08AFFAWJQKRHZ31DT00.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/B/2N/H3DU357DMV3N153S8DJGDP.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/C/HK/P2LU6XLQQ24BORMAHFROV7.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/C/I5/76UTD0O1XZ3QRKBKEFW0OZ.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/C/KL/88FN1PS0TVIZTYCSX08JKF.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/D/0K/7J19BUYCU0V2HZBXPJFI5Z.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/D/IW/XW8YA6D5JEJL45SYOFPNO5.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/E/0Y/NMG5JDXGYWV3A4DWP69OVN.uasset
+Content/__ExternalObjects__/Project/Maps/Candyland/ThirdPersonMap1/E/CS/RKZ0D0IKT0A4KSPC1GWN0G.uasset
